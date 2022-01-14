@@ -29,6 +29,22 @@ If the value is higher than ten we count it as ten.
 If the value is one we count it as eleven.
 
 
+TECH STACK
+
+HTML - CSS - JavaScript
+
+
+LESSONS LEARNED FROM BUILDING THIS GAME
+
+Work with data types: arrays, objects, booleans.
+
+Use comparison operators and logical operators.
+
+For loops.
+
+Math object.
+
+
 CREDITS WHERE CREDIT'S DUE
 
 This game was part of Scrimba's frontend development bootcamp. Some modifications were made by me, Leda, the writer of this README.
